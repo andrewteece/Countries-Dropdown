@@ -1,4 +1,4 @@
-import { getDropdown } from './countries.js';
+import { getDropdown } from './countries';
 
 const countries = ['Netherlands', 'Japan', 'Mongolia'];
 
